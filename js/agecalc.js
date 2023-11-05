@@ -1,7 +1,7 @@
 
 
 //agedata
-
+// https://apps.littleleague.org/dc/v2/LeagueAgeCalculator
 var charterSportYearRanges = [
     { SportCode: 1, MinYear: 2006, MaxYear: 2019 },
     { SportCode: 4, MinYear: 1904, MaxYear: 2019 },
